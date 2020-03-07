@@ -1,0 +1,5 @@
+#CRUD APP NOTE
+## vARIABLE
+* PORT
+* MONGO_HOST=localhost
+* MONGO_DATABASE=notes-app

@@ -1,0 +1,12 @@
+body {
+    background: #1488cc;
+}
+
+.img {
+    width: 100px;
+    display: block;
+    margin : auto;
+    padding: 5px;
+    margin-bottom: 20px;
+
+}
